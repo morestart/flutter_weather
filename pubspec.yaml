@@ -28,6 +28,7 @@ dependencies:
   flutter_screenutil: 1.0.2
   flutter_spinkit: 3.1.0
   flustars: 0.2.6+1
+  flutter_easyrefresh: 2.1.0
 
 
 dev_dependencies:
@@ -50,7 +51,17 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/
-  #  - images/a_dot_ham.jpeg
+    - assets/images/pre.png
+    - assets/images/windDir.png
+    - assets/images/hum.png
+    - assets/images/洗车.png
+    - assets/images/空气.png
+    - assets/images/紫外线.png
+    - assets/images/舒适.png
+    - assets/images/运动.png
+    - assets/images/感冒.png
+    - assets/images/穿衣.png
+    - assets/images/出行.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
